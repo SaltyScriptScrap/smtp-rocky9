@@ -2,8 +2,12 @@
 
 This is a basic installation only, 
 
-Tested on RockyLinux 9.3, should be compatible to other RHEL / CentOS distributions
+You can watch the tutorial on YouTube video below for better understanding:
 
+[![Watch on YouTube](https://github.com/SaltyScriptScrap/smtp-rocky9/blob/main/SS_Setup_SMTP_Server.jpg?raw=true)](https://youtu.be/0yA_avdGVwA "Watch on YouTube")
+
+
+Tested on RockyLinux 9.3, should be compatible to other RHEL / CentOS distributions
 
 What you need:
 - a _Gmail account_ with _2-Step Verification_ enabled, 
